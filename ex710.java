@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//
 public class ex710
 {
 	public static int indexOfSmallestElement(double[] array)

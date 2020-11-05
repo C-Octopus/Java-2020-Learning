@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//
 public class ex617
 {
 	//随机0,1生成

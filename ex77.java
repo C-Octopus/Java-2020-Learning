@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//
 public class ex77
 {
 	public static int random0To9()
